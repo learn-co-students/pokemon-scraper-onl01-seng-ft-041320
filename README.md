@@ -18,7 +18,7 @@ In this lab, you will:
 This mirrors a very "real world" task.
 
 1. Set up a local database schema
-2. Find something on the internet that you want to capture to _your_ local 
+2. Find something on the internet that you want to capture to _your_ local
    database (copyright etc. permitting) and "scrape it"
 3. For each interesting thing found on the internet...
 4. Insert its information into your local database's schema by writing methods
@@ -61,7 +61,7 @@ The `Pokemon` class (`lib/pokemon.rb`) is responsible for saving, adding,
 removing, or changing anything about each Pokémon.
 
 It should be handed "raw" Pokémon data from the scraper and handle the ORM work
-to put the data into the database. It's probably most appropriate to 
+to put the data into the database. It's probably most appropriate to
 
 Create any methods you think you need to make working with the Pokémon data
 easier.
